@@ -1,0 +1,2 @@
+Output: Negative Loop Detected
+2->1->0->2
