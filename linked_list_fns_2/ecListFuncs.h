@@ -1,6 +1,4 @@
 // ecListFuncs.h
-// CSCI 455 Spring 2019, Extra Credit assignment
-// You do not need to modify or submit this file.
 
 #ifndef LIST_FUNCS_H
 #define LIST_FUNCS_H
