@@ -1,8 +1,4 @@
-// Name: Devendra Swami
-// USC NetID: 1742427505
-// CSCI 455 PA5
-// Spring 2019
-
+// Author: Devendra Swami
 
 #include <iostream>
 
