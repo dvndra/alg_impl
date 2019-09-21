@@ -1,8 +1,4 @@
-// Name: Devendra Swami
-// USC NetID: 1742427505
-// EE 450 HW0
-// Summer 2019
-
+// Author: Devendra Swami
 
 //*************************************************************************
 // Node class definition 
