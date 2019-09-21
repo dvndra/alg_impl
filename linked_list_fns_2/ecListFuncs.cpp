@@ -1,7 +1,4 @@
-/*  Name: Devendra Swami
- *  USC NetID: 1742427505
- *  CS 455 Spring 2019
- *
+/*  Author: Devendra Swami
  *  See ecListFuncs.h for specification of each function.
  */
 
